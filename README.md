@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrinal Sarma
 - 👀 I’m interested in software oriented technologies
-- 🌱 I’m currently pursueing my B.Tech degree
+- 🌱 I’m currently pursuing my B.Tech degree
 - 💞️ I’m looking to collaborate on a nice software company
 - 📫 How to reach me, mrinalsarma320@gmail.com
 
